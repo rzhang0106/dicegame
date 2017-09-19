@@ -12,6 +12,7 @@
 		F2DFB50C1F7167DF00F1B67D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2DFB50A1F7167DF00F1B67D /* Main.storyboard */; };
 		F2DFB50E1F7167DF00F1B67D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2DFB50D1F7167DF00F1B67D /* Assets.xcassets */; };
 		F2DFB5111F7167DF00F1B67D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2DFB50F1F7167DF00F1B67D /* LaunchScreen.storyboard */; };
+		F2DFB5191F71694E00F1B67D /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F2DFB5181F71694E00F1B67D /* images.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F2DFB50D1F7167DF00F1B67D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2DFB5101F7167DF00F1B67D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2DFB5121F7167DF00F1B67D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2DFB5181F71694E00F1B67D /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpeg; path = ../../images.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F2DFB5081F7167DF00F1B67D /* ViewController.swift */,
 				F2DFB50A1F7167DF00F1B67D /* Main.storyboard */,
 				F2DFB50D1F7167DF00F1B67D /* Assets.xcassets */,
+				F2DFB5181F71694E00F1B67D /* images.jpeg */,
 				F2DFB50F1F7167DF00F1B67D /* LaunchScreen.storyboard */,
 				F2DFB5121F7167DF00F1B67D /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2DFB5111F7167DF00F1B67D /* LaunchScreen.storyboard in Resources */,
+				F2DFB5191F71694E00F1B67D /* images.jpeg in Resources */,
 				F2DFB50E1F7167DF00F1B67D /* Assets.xcassets in Resources */,
 				F2DFB50C1F7167DF00F1B67D /* Main.storyboard in Resources */,
 			);
